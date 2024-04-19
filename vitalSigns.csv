@@ -1,0 +1,673 @@
+patient_number,sign,value
+379,temperature,97
+379,temperature,97
+379,pulse,62
+379,pulse,62
+379,respiratory rate,16
+379,blood pressure,163/96
+379,oxygen saturation,100%
+379,stable/normal,0
+316,stable/normal,0
+222,stable/normal,0
+222,stable/normal,0
+162,temperature,99
+162,temperature,99
+162,pulse,85
+162,pulse,85
+162,respiratory rate,16
+162,blood pressure,214/117
+162,oxygen saturation,92%
+162,stable/normal,0
+162,stable/normal,0
+154,temperature,97
+154,temperature,97
+154,pulse,80
+154,pulse,80
+154,respiratory rate,18
+154,blood pressure,108/62
+154,stable/normal,0
+154,stable/normal,0
+113,temperature,101.8
+113,respiratory rate,24
+113,stable/normal,0
+113,stable/normal,0
+263,temperature,100.2
+263,temperature,100.2
+263,respiratory rate,18
+263,blood pressure,173/74
+263,stable/normal,0
+300,pulse,1
+300,pulse,1
+300,stable/normal,0
+144,stable/normal,0
+324,stable/normal,0
+127,temperature,99.7
+127,stable/normal,0
+127,stable/normal,0
+347,pulse,80
+347,pulse,80
+347,blood pressure,214/108
+347,stable/normal,0
+103,pulse,105
+103,pulse,105
+103,blood pressure,143/96
+103,stable/normal,0
+103,stable/normal,0
+300,pulse,1
+300,pulse,1
+300,stable/normal,0
+183,blood pressure,164/94
+183,oxygen saturation,96%
+183,stable/normal,0
+103,stable/normal,0
+103,stable/normal,0
+395,temperature,96.5
+395,temperature,98.
+395,stable/normal,0
+366,temperature,97.2
+366,temperature,97.2
+366,pulse,70
+366,pulse,70
+366,stable/normal,0
+366,stable/normal,0
+395,temperature,99.0
+395,temperature,99.0
+395,pulse,94
+395,pulse,94
+395,blood pressure,137/50
+266,pulse,1
+266,pulse,1
+266,stable/normal,0
+120,temperature,97.9
+120,temperature,97.9
+120,respiratory rate,20
+120,blood pressure,161/93
+266,pulse,1
+266,pulse,1
+266,stable/normal,0
+215,blood pressure,150/90
+116,temperature,103.3
+116,temperature,103.3
+116,pulse,117
+116,pulse,117
+116,respiratory rate,20
+116,stable/normal,0
+264,stable/normal,0
+264,stable/normal,0
+274,temperature,98
+274,pulse,58
+274,pulse,58
+274,blood pressure,138/83
+274,stable/normal,0
+274,stable/normal,0
+266,pulse,1
+266,pulse,1
+266,stable/normal,0
+120,temperature,96.3
+120,temperature,96.3
+120,pulse,84
+120,pulse,84
+120,blood pressure,158/67
+120,oxygen saturation,98%
+120,stable/normal,0
+344,temperature,96.2
+344,pulse,108
+344,pulse,108
+344,respiratory rate,20
+344,blood pressure,142/96
+344,stable/normal,0
+344,stable/normal,0
+112,stable/normal,0
+281,blood pressure,161/72
+281,stable/normal,0
+311,temperature,100
+311,temperature,100
+311,pulse,111
+311,pulse,111
+311,blood pressure,157/69
+311,stable/normal,0
+311,stable/normal,0
+171,pulse,72
+171,pulse,72
+171,blood pressure,112/52
+171,stable/normal,0
+213,temperature,96.6
+213,temperature,96.6
+213,pulse,91
+213,pulse,91
+213,blood pressure,120/58
+213,stable/normal,0
+213,stable/normal,0
+254,temperature,97.8
+254,temperature,97.8
+254,blood pressure,136/88
+254,stable/normal,0
+254,stable/normal,0
+157,stable/normal,0
+173,respiratory rate,18
+173,stable/normal,0
+173,stable/normal,0
+213,temperature,96
+213,temperature,96
+213,respiratory rate,20
+213,blood pressure,97/49
+213,stable/normal,0
+213,respiratory rate,16
+213,blood pressure,90/40
+213,stable/normal,0
+213,stable/normal,0
+362,temperature,98.6
+362,temperature,98.6
+362,pulse,86
+362,pulse,86
+362,blood pressure,140/60
+362,stable/normal,0
+362,stable/normal,0
+370,temperature,97.8
+370,temperature,97.8
+370,blood pressure,166/66
+370,stable/normal,0
+370,stable/normal,0
+119,stable/normal,0
+107,stable/normal,0
+107,stable/normal,0
+316,stable/normal,0
+131,stable/normal,0
+107,respiratory rate,18
+107,stable/normal,0
+107,stable/normal,0
+131,respiratory rate,3
+131,stable/normal,0
+265,stable/normal,0
+267,stable/normal,0
+267,stable/normal,0
+396,pulse,89
+396,pulse,89
+396,respiratory rate,18
+396,stable/normal,0
+396,stable/normal,0
+241,stable/normal,0
+113,temperature,101.8
+113,respiratory rate,24
+113,stable/normal,0
+113,stable/normal,0
+382,stable/normal,0
+158,blood pressure,166/81
+158,stable/normal,0
+380,respiratory rate,20
+380,stable/normal,0
+380,stable/normal,0
+181,stable/normal,0
+181,stable/normal,0
+127,blood pressure,195/77
+127,stable/normal,0
+111,stable/normal,0
+111,stable/normal,0
+382,stable/normal,0
+382,stable/normal,0
+345,temperature,96.4
+345,stable/normal,0
+345,stable/normal,0
+103,stable/normal,0
+103,stable/normal,0
+338,stable/normal,0
+350,stable/normal,0
+350,stable/normal,0
+165,blood pressure,154/79
+165,stable/normal,0
+165,stable/normal,0
+352,stable/normal,0
+352,stable/normal,0
+385,stable/normal,0
+385,stable/normal,0
+352,temperature,98.6
+352,stable/normal,0
+352,stable/normal,0
+285,stable/normal,0
+311,stable/normal,0
+311,stable/normal,0
+173,temperature,99
+173,temperature,99
+173,pulse,93
+173,pulse,93
+173,blood pressure,153/118
+173,stable/normal,0
+136,stable/normal,0
+136,stable/normal,0
+254,blood pressure,112/72
+254,oxygen saturation,96%
+254,stable/normal,0
+354,temperature,96.
+354,temperature,96.
+354,stable/normal,0
+354,stable/normal,0
+362,pulse,98
+362,pulse,98
+362,blood pressure,163/112
+362,stable/normal,0
+362,stable/normal,0
+329,pulse,80
+329,pulse,80
+329,blood pressure,140/90
+329,blood pressure,140/90
+329,stable/normal,0
+304,blood pressure,248/146
+304,stable/normal,0
+304,stable/normal,0
+251,blood pressure,116/58
+316,stable/normal,0
+168,stable/normal,0
+308,stable/normal,0
+384,blood pressure,152/79
+178,blood pressure,170/80
+178,oxygen saturation,98
+152,blood pressure,180/80
+152,stable/normal,0
+388,blood pressure,151/68
+388,oxygen saturation,99
+388,stable/normal,0
+388,stable/normal,0
+386,stable/normal,0
+131,stable/normal,0
+304,blood pressure,248/146
+304,stable/normal,0
+304,stable/normal,0
+277,blood pressure,108/62
+277,oxygen saturation,96
+277,stable/normal,0
+277,stable/normal,0
+220,blood pressure,170/80
+320,blood pressure,160/80
+320,stable/normal,0
+308,blood pressure,160/80
+168,blood pressure,135/80
+168,stable/normal,0
+214,blood pressure,121/63
+152,blood pressure,170/80
+152,stable/normal,0
+164,pulse,60
+164,pulse,60
+164,blood pressure,160/80
+131,respiratory rate,3
+131,stable/normal,0
+117,stable/normal,0
+400,pulse,84
+400,pulse,84
+400,blood pressure,120/70
+400,stable/normal,0
+400,stable/normal,0
+251,stable/normal,0
+251,stable/normal,0
+185,temperature,96.7
+185,temperature,96.7
+185,respiratory rate,16
+185,blood pressure,80/54
+185,stable/normal,0
+396,blood pressure,146/78
+396,stable/normal,0
+178,blood pressure,120/88
+220,pulse,60
+220,pulse,60
+220,blood pressure,148/76
+220,stable/normal,0
+308,blood pressure,146/74
+308,stable/normal,0
+308,stable/normal,0
+220,blood pressure,148/66
+220,oxygen saturation,97
+220,stable/normal,0
+316,stable/normal,0
+214,blood pressure,125/65
+214,stable/normal,0
+396,blood pressure,138/80
+396,stable/normal,0
+119,stable/normal,0
+277,blood pressure,102/74
+277,stable/normal,0
+178,pulse,68
+178,pulse,68
+178,stable/normal,0
+306,blood pressure,118/74
+306,stable/normal,0
+386,stable/normal,0
+386,stable/normal,0
+119,stable/normal,0
+210,blood pressure,140/90
+210,blood pressure,126/78
+210,stable/normal,0
+210,stable/normal,0
+200,blood pressure,118/78
+200,oxygen saturation,97
+137,pulse,70
+137,pulse,70
+137,blood pressure,130/70
+137,stable/normal,0
+137,stable/normal,0
+181,blood pressure,122/70
+181,stable/normal,0
+181,stable/normal,0
+338,stable/normal,0
+210,blood pressure,123/70
+210,stable/normal,0
+349,stable/normal,0
+234,blood pressure,126/78
+234,stable/normal,0
+373,stable/normal,0
+226,blood pressure,130/76
+226,stable/normal,0
+226,stable/normal,0
+210,blood pressure,128/68
+210,stable/normal,0
+210,stable/normal,0
+363,stable/normal,0
+170,stable/normal,0
+170,stable/normal,0
+392,blood pressure,126/67
+392,stable/normal,0
+392,stable/normal,0
+255,blood pressure,230/100
+255,stable/normal,0
+200,blood pressure,88/52
+137,pulse,60
+137,pulse,60
+137,blood pressure,134/70
+137,stable/normal,0
+162,stable/normal,0
+193,stable/normal,0
+355,stable/normal,0
+363,blood pressure,160/64
+363,stable/normal,0
+373,stable/normal,0
+226,blood pressure,110/70
+226,stable/normal,0
+135,blood pressure,133/57
+135,stable/normal,0
+135,blood pressure,133/57
+135,stable/normal,0
+200,blood pressure,106/52
+200,stable/normal,0
+290,stable/normal,0
+349,temperature,97.0
+349,temperature,97.0
+349,pulse,68
+349,pulse,68
+349,respiratory rate,17
+349,blood pressure,130/80
+349,stable/normal,0
+234,stable/normal,0
+193,stable/normal,0
+226,blood pressure,144/70
+226,stable/normal,0
+177,blood pressure,152/80
+177,stable/normal,0
+177,stable/normal,0
+352,blood pressure,107/68
+323,blood pressure,126/68
+299,stable/normal,0
+215,blood pressure,118/70
+215,stable/normal,0
+340,stable/normal,0
+141,blood pressure,110/60
+141,stable/normal,0
+177,blood pressure,120/70
+177,stable/normal,0
+177,stable/normal,0
+342,blood pressure,136/90
+342,stable/normal,0
+321,blood pressure,140/80
+209,stable/normal,0
+387,blood pressure,154/82
+387,stable/normal,0
+305,blood pressure,118/76
+342,stable/normal,0
+151,stable/normal,0
+177,blood pressure,127/64
+376,stable/normal,0
+395,respiratory rate,10
+395,blood pressure,148/60
+395,stable/normal,0
+331,blood pressure,184/90
+331,oxygen saturation,99
+364,blood pressure,110/70
+364,stable/normal,0
+364,stable/normal,0
+196,blood pressure,144/61
+196,stable/normal,0
+376,stable/normal,0
+315,stable/normal,0
+397,blood pressure,138/83
+184,stable/normal,0
+385,pulse,66
+385,pulse,66
+385,blood pressure,126/57
+385,stable/normal,0
+385,stable/normal,0
+196,blood pressure,117/56
+196,stable/normal,0
+342,blood pressure,160/110
+342,stable/normal,0
+151,stable/normal,0
+331,blood pressure,152/78
+348,stable/normal,0
+391,blood pressure,120/78
+391,stable/normal,0
+383,pulse,72
+383,pulse,72
+383,blood pressure,122/62
+383,stable/normal,0
+339,stable/normal,0
+339,stable/normal,0
+391,stable/normal,0
+235,stable/normal,0
+260,stable/normal,0
+256,blood pressure,140/80
+256,stable/normal,0
+256,stable/normal,0
+358,blood pressure,142/62
+335,blood pressure,110/60
+335,stable/normal,0
+348,stable/normal,0
+244,stable/normal,0
+393,blood pressure,143/75
+329,blood pressure,177/84
+329,blood pressure,169/84
+329,stable/normal,0
+329,stable/normal,0
+313,pulse,90
+313,pulse,90
+313,blood pressure,171/94
+313,stable/normal,0
+260,blood pressure,10/31
+260,stable/normal,0
+260,stable/normal,0
+203,stable/normal,0
+203,stable/normal,0
+325,stable/normal,0
+325,stable/normal,0
+348,stable/normal,0
+157,oxygen saturation,90
+157,stable/normal,0
+157,stable/normal,0
+244,stable/normal,0
+383,temperature,98.1
+383,blood pressure,140/78
+348,stable/normal,0
+346,stable/normal,0
+293,blood pressure,128/70
+293,oxygen saturation,97
+293,stable/normal,0
+358,blood pressure,164/64
+174,stable/normal,0
+174,stable/normal,0
+243,blood pressure,140/88
+243,stable/normal,0
+243,stable/normal,0
+220,stable/normal,0
+174,stable/normal,0
+174,stable/normal,0
+351,pulse,76
+351,pulse,76
+351,stable/normal,0
+351,stable/normal,0
+386,blood pressure,128/88
+386,stable/normal,0
+386,stable/normal,0
+343,pulse,92
+343,pulse,92
+343,stable/normal,0
+394,blood pressure,108/64
+394,stable/normal,0
+298,blood pressure,160/80
+298,stable/normal,0
+286,pulse,68
+286,pulse,68
+222,stable/normal,0
+222,stable/normal,0
+113,temperature,99.2
+113,stable/normal,0
+162,stable/normal,0
+193,stable/normal,0
+113,temperature,101.8
+113,respiratory rate,24
+113,stable/normal,0
+113,stable/normal,0
+238,blood pressure,145/60
+238,stable/normal,0
+183,oxygen saturation,97%
+183,stable/normal,0
+183,stable/normal,0
+156,temperature,97.2
+156,pulse,59
+156,pulse,59
+156,respiratory rate,20
+156,stable/normal,0
+200,pulse,68
+200,pulse,68
+200,blood pressure,118/48
+200,stable/normal,0
+371,stable/normal,0
+359,blood pressure,190/120
+374,stable/normal,0
+307,blood pressure,226/129
+299,blood pressure,100/60
+395,pulse,64
+395,pulse,64
+395,respiratory rate,12
+395,stable/normal,0
+342,stable/normal,0
+186,stable/normal,0
+186,stable/normal,0
+217,blood pressure,132/70
+217,stable/normal,0
+385,stable/normal,0
+120,stable/normal,0
+184,stable/normal,0
+104,blood pressure,100/70
+385,blood pressure,128/68
+223,stable/normal,0
+223,stable/normal,0
+397,blood pressure,126/70
+397,stable/normal,0
+340,blood pressure,174/100
+340,stable/normal,0
+276,stable/normal,0
+186,stable/normal,0
+186,stable/normal,0
+323,temperature,98.2
+323,temperature,98.2
+323,blood pressure,140/64
+323,stable/normal,0
+235,blood pressure,120/75
+235,stable/normal,0
+157,blood pressure,134/82
+157,stable/normal,0
+339,blood pressure,140/80
+112,stable/normal,0
+311,stable/normal,0
+344,temperature,97.3
+344,pulse,58
+344,pulse,58
+344,respiratory rate,16
+344,blood pressure,134/79
+344,stable/normal,0
+157,blood pressure,144/78
+126,stable/normal,0
+136,respiratory rate,18
+136,blood pressure,114/68
+136,stable/normal,0
+313,stable/normal,0
+258,stable/normal,0
+171,pulse,76
+171,pulse,76
+171,blood pressure,135/70
+171,stable/normal,0
+291,blood pressure,165/64
+291,stable/normal,0
+313,pulse,76
+313,pulse,76
+313,stable/normal,0
+145,blood pressure,138/70
+145,stable/normal,0
+192,blood pressure,152/84
+192,pulse,68
+192,weight,263
+148,blood pressure,103/80
+148,pulse,70
+148,weight,164
+148,temperature,96.6
+148,respiratory rate,16
+346,temperature,98.6
+346,pulse,99
+346,blood pressure,174/65
+346,respiratory rate,20
+346,oxygen saturation,91%
+189,blood pressure,120/68
+189,pulse,80
+236,blood pressure,128/68
+236,weight,107
+338,blood pressure,110/61
+338,pulse,61
+338,weight,220
+139,blood pressure,140/70
+139,pulse,64
+139,weight,151
+385,weight,152
+385,blood pressure,115/55
+385,pulse,70
+385,temperature,96.3
+376,weight,183
+376,blood pressure,130/70
+397,temperature,98.3
+397,blood pressure,114/73
+397,pulse,100
+397,respiratory rate,16
+397,oxygen saturation,96%
+278,blood pressure,130/72
+278,pulse,68
+278,weight,198
+242,blood pressure,142/84
+242,weight,178
+242,weight,178
+110,pulse,66
+110,temperature,98.7
+110,oxygen saturation,97%
+110,blood pressure,132/60
+244,blood pressure,120/64
+244,pulse,68
+244,respiratory rate,14
+244,weight,202
+354,blood pressure,154/71
+354,pulse,66
+346,blood pressure,124/60
+346,pulse,72
+346,weight,238
+220,blood pressure,140/82
+220,temperature,98.2
+378,weight,213
+215,blood pressure,130/80
+215,weight,216
+346,temperature,98.6
+346,pulse,99
+346,blood pressure,174/65
+346,respiratory rate,20
+346,oxygen saturation,91%
