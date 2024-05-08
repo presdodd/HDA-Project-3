@@ -1,0 +1,1439 @@
+patient_number,sign,value
+379,temperature,97
+379,temperature,97
+379,pulse,62
+379,pulse,62
+379,respiratory rate,16
+379,respiratory rate,16
+379,blood pressure,163/96
+379,oxygen saturation,100%
+279,respiratory rate,24
+279,blood pressure,148/67
+304,respiratory rate,16
+304,blood pressure,248/146
+204,pulse,70
+204,blood pressure,130/75
+251,respiratory rate,20
+251,blood pressure,116/58
+164,pulse,72
+164,pulse,72
+164,blood pressure,140/70
+351,pulse,88
+400,blood pressure,203/109
+232,blood pressure,204/99
+332,blood pressure,130/60
+109,blood pressure,186/86
+267,temperature,100
+296,blood pressure,90/53
+189,blood pressure,130/60
+178,blood pressure,134/64
+216,blood pressure,100/64
+343,temperature,99.3
+343,temperature,99.3
+343,pulse,95
+343,pulse,95
+343,respiratory rate,20
+343,respiratory rate,20
+243,respiratory rate,12
+243,blood pressure,140/88
+320,respiratory rate,20
+320,blood pressure,184/68
+115,pulse,78
+115,pulse,78
+275,temperature,97.7
+275,temperature,97.7
+275,pulse,60
+275,pulse,60
+275,blood pressure,90/54
+375,blood pressure,105/55
+284,blood pressure,140/80
+166,blood pressure,140/76
+308,blood pressure,130/85
+384,blood pressure,152/79
+284,blood pressure,120/80
+320,temperature,98.6
+320,temperature,98.6
+320,blood pressure,160/70
+243,pulse,64
+343,blood pressure,130/86
+123,blood pressure,130/90
+216,blood pressure,196/89
+178,blood pressure,170/80
+394,blood pressure,140/80
+189,blood pressure,150/68
+105,temperature,98.7
+105,temperature,98.7
+105,pulse,80
+105,pulse,80
+105,respiratory rate,12
+105,respiratory rate,12
+105,blood pressure,160/80
+105,blood pressure,122/50
+398,respiratory rate,16
+396,temperature,97
+396,temperature,97
+396,pulse,74
+396,pulse,74
+152,blood pressure,180/80
+267,pulse,90
+267,pulse,90
+367,respiratory rate,18
+367,blood pressure,168/78
+185,blood pressure,190/102
+400,blood pressure,188/100
+351,pulse,76
+351,pulse,76
+251,temperature,95.6
+251,pulse,52
+251,pulse,52
+251,blood pressure,132/68
+388,blood pressure,151/68
+304,respiratory rate,16
+304,blood pressure,248/146
+142,blood pressure,135/70
+279,respiratory rate,22
+379,blood pressure,128/70
+322,blood pressure,126/72
+277,blood pressure,108/62
+131,respiratory rate,3
+131,blood pressure,130/70
+386,respiratory rate,14
+386,blood pressure,128/88
+286,pulse,72
+351,pulse,96
+400,blood pressure,200/130
+400,blood pressure,190/116
+164,pulse,76
+332,blood pressure,140/68
+232,blood pressure,159/70
+107,pulse,63
+107,respiratory rate,18
+107,respiratory rate,18
+314,pulse,76
+314,blood pressure,128/58
+314,blood pressure,120/80
+298,blood pressure,130/70
+365,blood pressure,142/67
+394,blood pressure,122/70
+123,blood pressure,160/62
+243,blood pressure,138/80
+218,respiratory rate,16
+218,blood pressure,98/56
+343,pulse,92
+343,pulse,92
+220,blood pressure,170/80
+320,blood pressure,160/80
+199,blood pressure,150/90
+140,blood pressure,148/62
+353,pulse,58
+353,pulse,58
+353,blood pressure,169/83
+253,blood pressure,130/75
+308,blood pressure,160/80
+168,respiratory rate,18
+168,blood pressure,135/80
+140,blood pressure,152/76
+199,pulse,82
+199,oxygen saturation,98%
+218,respiratory rate,2086
+394,respiratory rate,72
+394,blood pressure,108/64
+294,blood pressure,130/80
+316,temperature,96.8
+316,pulse,83
+316,pulse,83
+316,respiratory rate,20
+365,blood pressure,140/60
+341,respiratory rate,24
+341,blood pressure,150/74
+398,respiratory rate,16
+214,blood pressure,121/63
+267,pulse,62
+267,pulse,62
+267,blood pressure,163/89
+267,oxygen saturation,97%
+152,blood pressure,170/80
+269,blood pressure,128/60
+369,temperature,97.4
+369,temperature,97.4
+369,pulse,68
+369,pulse,68
+369,blood pressure,110/80
+164,pulse,60
+164,pulse,60
+164,blood pressure,160/80
+286,temperature,97
+286,temperature,97
+286,pulse,64
+286,pulse,64
+286,blood pressure,192/96
+304,pulse,100
+304,blood pressure,184/88
+131,respiratory rate,3
+386,pulse,84
+386,pulse,84
+386,blood pressure,136/72
+277,pulse,76
+277,pulse,76
+277,blood pressure,102/70
+322,respiratory rate,18
+379,pulse,66
+379,pulse,66
+379,blood pressure,186/110
+222,pulse,69
+222,pulse,69
+142,blood pressure,145/90
+279,blood pressure,148/70
+222,temperature,97
+379,blood pressure,218/112
+322,blood pressure,144/99
+351,pulse,93
+351,pulse,93
+351,blood pressure,158/83
+400,pulse,84
+400,pulse,84
+400,blood pressure,120/70
+388,blood pressure,122/66
+304,blood pressure,211/120
+185,temperature,96.7
+185,temperature,96.7
+185,respiratory rate,16
+185,respiratory rate,16
+185,blood pressure,80/54
+332,pulse,54
+332,pulse,54
+332,blood pressure,147/78
+174,pulse,76
+174,pulse,76
+396,blood pressure,146/78
+189,pulse,1
+189,pulse,1
+330,temperature,35.9
+343,blood pressure,122/82
+178,blood pressure,120/88
+216,blood pressure,135/60
+220,pulse,60
+220,pulse,60
+220,blood pressure,148/76
+353,pulse,84
+353,pulse,84
+253,pulse,60
+253,pulse,60
+284,blood pressure,140/82
+384,temperature,99.2
+384,temperature,99.2
+166,respiratory rate,18
+166,blood pressure,200/89
+308,respiratory rate,20
+308,blood pressure,146/74
+220,blood pressure,148/66
+275,blood pressure,98/66
+318,pulse,72
+105,blood pressure,100/70
+189,blood pressure,134/88
+214,blood pressure,125/65
+396,blood pressure,138/80
+174,temperature,97.1
+174,temperature,97.1
+174,pulse,86
+174,pulse,86
+174,respiratory rate,20
+174,blood pressure,142/82
+269,pulse,60
+269,pulse,60
+369,blood pressure,146/90
+332,blood pressure,156/59
+367,blood pressure,170/100
+109,blood pressure,142/70
+304,blood pressure,120/88
+204,blood pressure,125/70
+400,respiratory rate,22
+400,blood pressure,173/93
+288,pulse,80
+379,blood pressure,140/85
+142,blood pressure,140/90
+277,respiratory rate,14
+277,blood pressure,102/74
+377,respiratory rate,18
+377,blood pressure,129/65
+322,temperature,98.1
+322,temperature,98.1
+322,respiratory rate,28
+322,respiratory rate,28
+164,respiratory rate,4
+131,blood pressure,160/80
+298,blood pressure,160/80
+341,pulse,80
+341,pulse,80
+341,blood pressure,158/79
+174,pulse,72
+174,blood pressure,128/88
+241,pulse,85
+365,respiratory rate,16
+365,blood pressure,148/78
+265,temperature,100.3
+265,temperature,100.3
+265,pulse,84
+265,pulse,84
+265,respiratory rate,18
+265,respiratory rate,18
+265,blood pressure,110/65
+105,pulse,60
+105,blood pressure,105/50
+230,blood pressure,179/78
+318,temperature,97.3
+318,temperature,97.3
+318,blood pressure,125/82
+218,pulse,68
+218,pulse,68
+218,blood pressure,124/70
+178,pulse,68
+178,pulse,68
+199,pulse,68
+199,pulse,68
+115,blood pressure,130/60
+353,blood pressure,140/73
+306,blood pressure,118/74
+168,blood pressure,190/80
+206,blood pressure,120/76
+206,blood pressure,130/76
+384,temperature,98.1
+384,temperature,98.1
+384,pulse,92
+384,pulse,92
+384,blood pressure,196/84
+284,respiratory rate,20
+284,blood pressure,144/82
+306,blood pressure,142/84
+353,pulse,48
+353,pulse,48
+353,blood pressure,140/73
+199,temperature,95.2
+199,pulse,96
+199,pulse,96
+199,blood pressure,121/65
+294,respiratory rate,16
+294,blood pressure,112/58
+394,blood pressure,130/56
+218,pulse,64
+218,pulse,64
+218,blood pressure,130/68
+318,blood pressure,102/61
+150,blood pressure,150/90
+265,pulse,100
+265,pulse,100
+314,blood pressure,180/76
+314,oxygen saturation,100%
+396,pulse,89
+396,pulse,89
+396,respiratory rate,18
+396,respiratory rate,18
+341,respiratory rate,16
+341,blood pressure,136/61
+269,pulse,60
+269,pulse,60
+152,blood pressure,155/60
+131,respiratory rate,2086
+286,pulse,68
+286,pulse,68
+288,temperature,101.6
+288,temperature,101.6
+288,pulse,90
+288,pulse,90
+288,respiratory rate,18
+288,respiratory rate,18
+288,blood pressure,114/60
+164,respiratory rate,4
+388,pulse,80
+322,respiratory rate,18
+322,blood pressure,127/75
+377,blood pressure,140/82
+277,temperature,95.9
+277,pulse,82
+277,pulse,82
+142,blood pressure,110/70
+236,pulse,70
+158,temperature,98.6
+363,temperature,98.5
+210,blood pressure,140/90
+210,blood pressure,126/78
+392,pulse,78
+392,pulse,78
+392,blood pressure,110/72
+125,pulse,70
+170,blood pressure,135/82
+113,temperature,99.2
+200,respiratory rate,16
+200,blood pressure,118/78
+324,blood pressure,97/44
+193,pulse,112
+193,respiratory rate,12
+193,respiratory rate,12
+371,blood pressure,138/76
+280,pulse,72
+280,respiratory rate,13
+280,respiratory rate,13
+280,blood pressure,126/82
+137,pulse,72
+137,pulse,72
+380,blood pressure,120/60
+162,temperature,99
+162,temperature,99
+162,pulse,85
+162,pulse,85
+162,respiratory rate,16
+162,respiratory rate,16
+162,blood pressure,214/117
+162,oxygen saturation,92%
+101,pulse,64
+101,respiratory rate,20
+361,blood pressure,130/71
+312,respiratory rate,16
+312,blood pressure,121/62
+349,pulse,83
+349,pulse,83
+154,temperature,97
+154,temperature,97
+154,pulse,80
+154,pulse,80
+154,respiratory rate,18
+154,respiratory rate,18
+154,blood pressure,108/62
+183,pulse,88
+101,pulse,64
+101,respiratory rate,20
+357,temperature,100.6
+357,pulse,150
+357,pulse,150
+357,respiratory rate,12
+357,respiratory rate,12
+257,blood pressure,162/60
+137,pulse,70
+137,pulse,70
+137,blood pressure,130/70
+380,blood pressure,155/75
+280,pulse,77
+280,respiratory rate,14
+280,respiratory rate,14
+280,blood pressure,109/73
+371,pulse,67
+371,pulse,67
+371,blood pressure,124/62
+224,blood pressure,140/80
+300,respiratory rate,18
+328,respiratory rate,14
+146,pulse,65
+146,pulse,65
+146,respiratory rate,14
+113,temperature,101.8
+113,respiratory rate,24
+113,respiratory rate,24
+191,blood pressure,213/83
+170,respiratory rate,16
+170,blood pressure,140/70
+345,temperature,96.9
+345,pulse,65
+345,pulse,65
+238,blood pressure,145/60
+181,respiratory rate,12
+181,blood pressure,122/70
+158,blood pressure,169/81
+158,temperature,98.6
+238,blood pressure,170/80
+156,pulse,88
+156,pulse,88
+156,blood pressure,148/89
+310,blood pressure,120/70
+210,blood pressure,123/70
+392,blood pressure,110/70
+345,pulse,68
+345,blood pressure,216/76
+226,pulse,81
+226,blood pressure,106/75
+326,pulse,90
+326,pulse,90
+191,pulse,82
+191,pulse,82
+191,respiratory rate,20
+191,blood pressure,110/62
+135,blood pressure,128/70
+282,respiratory rate,10
+160,blood pressure,85/53
+280,temperature,98.6
+280,pulse,65
+280,pulse,65
+280,blood pressure,105/69
+357,blood pressure,150/82
+183,oxygen saturation,97%
+334,respiratory rate,18
+334,blood pressure,111/56
+361,temperature,98.2
+361,pulse,78
+361,pulse,78
+290,respiratory rate,24
+290,blood pressure,160/90
+249,respiratory rate,16
+249,respiratory rate,16
+249,blood pressure,140/80
+127,respiratory rate,18
+127,blood pressure,180/79
+172,blood pressure,130/80
+172,blood pressure,152/76
+127,respiratory rate,24
+127,blood pressure,181/93
+249,blood pressure,120/70
+349,temperature,97.0
+349,temperature,97.0
+349,pulse,70
+349,pulse,70
+349,respiratory rate,18
+349,respiratory rate,18
+349,blood pressure,140/100
+361,blood pressure,200/90
+101,pulse,68
+234,blood pressure,126/78
+183,pulse,80
+139,blood pressure,140/80
+357,temperature,97.2
+357,temperature,97.2
+357,blood pressure,170/82
+111,temperature,97.4
+111,oxygen saturation,97%
+273,blood pressure,80/50
+148,respiratory rate,24
+148,blood pressure,160/70
+226,blood pressure,130/76
+345,respiratory rate,141
+345,respiratory rate,18
+345,blood pressure,126/50
+210,blood pressure,128/68
+310,temperature,96.9
+156,temperature,97.2
+156,pulse,59
+156,pulse,59
+156,respiratory rate,20
+156,respiratory rate,20
+103,pulse,72
+103,pulse,72
+103,blood pressure,124/72
+263,temperature,100.2
+263,temperature,100.2
+263,respiratory rate,18
+263,respiratory rate,18
+263,blood pressure,173/74
+236,pulse,75
+158,respiratory rate,18
+158,blood pressure,166/81
+292,pulse,61
+392,blood pressure,126/67
+328,temperature,105.6
+328,respiratory rate,50
+328,blood pressure,144/78
+228,pulse,68
+228,pulse,68
+146,pulse,68
+146,pulse,68
+146,respiratory rate,20
+146,respiratory rate,20
+113,blood pressure,110/80
+355,blood pressure,118/57
+255,blood pressure,230/100
+200,respiratory rate,18
+200,blood pressure,88/52
+382,respiratory rate,20
+382,blood pressure,118/68
+300,pulse,1
+300,pulse,1
+224,blood pressure,150/90
+137,pulse,60
+137,pulse,60
+137,blood pressure,134/70
+380,pulse,110
+380,respiratory rate,20
+380,respiratory rate,20
+280,pulse,86
+154,temperature,96.6
+154,temperature,96.6
+154,blood pressure,164/86
+347,temperature,97.2
+347,temperature,97.2
+347,pulse,74
+347,pulse,74
+347,blood pressure,208/66
+127,temperature,99.7
+212,pulse,70
+212,pulse,70
+212,respiratory rate,16
+212,respiratory rate,16
+212,blood pressure,120/60
+347,pulse,80
+347,pulse,80
+347,blood pressure,214/108
+129,respiratory rate,24
+129,blood pressure,117/62
+224,blood pressure,120/70
+271,blood pressure,163/61
+371,blood pressure,144/64
+300,respiratory rate,3
+200,pulse,68
+200,pulse,68
+200,blood pressure,118/48
+255,blood pressure,230/100
+160,blood pressure,110/76
+113,respiratory rate,18
+125,blood pressure,140/80
+103,pulse,105
+103,pulse,105
+103,blood pressure,143/96
+236,pulse,85
+336,temperature,97.6
+336,temperature,97.6
+336,respiratory rate,20
+336,blood pressure,150/98
+336,oxygen saturation,98%
+363,respiratory rate,16
+363,blood pressure,160/64
+156,pulse,70
+156,pulse,70
+156,blood pressure,148/83
+103,temperature,97.5
+103,temperature,97.5
+103,pulse,79
+103,pulse,79
+103,blood pressure,124/55
+310,respiratory rate,20
+310,blood pressure,120/62
+326,respiratory rate,20
+326,blood pressure,156/86
+226,blood pressure,110/70
+160,respiratory rate,16
+160,blood pressure,157/94
+282,respiratory rate,10
+300,pulse,1
+300,pulse,1
+135,respiratory rate,22
+135,blood pressure,133/57
+200,respiratory rate,16
+200,blood pressure,106/52
+144,temperature,99.2
+144,pulse,93
+144,blood pressure,136/81
+271,blood pressure,118/77
+357,blood pressure,136/58
+361,respiratory rate,18
+361,blood pressure,170/75
+183,blood pressure,164/94
+183,oxygen saturation,96%
+212,respiratory rate,16
+212,respiratory rate,16
+212,blood pressure,120/70
+127,temperature,95.4
+127,temperature,95.4
+127,blood pressure,179/78
+349,temperature,97.0
+349,temperature,97.0
+349,pulse,68
+349,pulse,68
+349,respiratory rate,17
+349,respiratory rate,17
+349,blood pressure,130/80
+127,respiratory rate,22
+127,blood pressure,195/77
+249,blood pressure,145/70
+347,temperature,96
+347,temperature,96
+347,pulse,92
+347,pulse,92
+347,respiratory rate,18
+347,respiratory rate,18
+347,blood pressure,167/84
+361,respiratory rate,18
+361,blood pressure,160/70
+359,blood pressure,190/120
+357,pulse,1
+357,pulse,1
+139,pulse,80
+139,pulse,80
+139,blood pressure,150/80
+257,respiratory rate,16
+257,blood pressure,132/71
+224,respiratory rate,18
+324,temperature,104
+144,temperature,99
+144,temperature,99
+144,pulse,63
+144,pulse,63
+144,blood pressure,140/86
+144,oxygen saturation,96%
+282,respiratory rate,10
+355,blood pressure,160/90
+255,blood pressure,172/100
+148,respiratory rate,22
+148,blood pressure,121/82
+226,blood pressure,144/70
+326,blood pressure,154/93
+191,blood pressure,114/54
+373,respiratory rate,16
+373,blood pressure,160/61
+345,temperature,96.4
+181,temperature,99
+236,blood pressure,114/50
+238,blood pressure,130/65
+364,respiratory rate,20
+364,blood pressure,110/80
+219,blood pressure,108/60
+177,blood pressure,152/80
+319,temperature,101.5
+319,respiratory rate,20
+217,blood pressure,116/70
+395,temperature,96.5
+395,temperature,98.
+141,respiratory rate,16
+141,blood pressure,158/88
+274,blood pressure,102/56
+274,oxygen saturation,95%
+352,blood pressure,107/68
+309,pulse,60
+309,blood pressure,150/98
+252,pulse,45
+207,temperature,97
+207,temperature,97
+207,pulse,63
+207,pulse,63
+207,respiratory rate,20
+207,respiratory rate,20
+207,blood pressure,134/64
+307,blood pressure,226/129
+376,blood pressure,164/70
+278,respiratory rate,18
+323,blood pressure,126/68
+194,blood pressure,122/74
+165,pulse,80
+165,pulse,80
+205,pulse,80
+287,blood pressure,112/72
+153,blood pressure,130/60
+366,temperature,97.2
+366,temperature,97.2
+366,pulse,70
+366,pulse,70
+368,blood pressure,120/70
+268,pulse,94
+268,pulse,94
+268,blood pressure,110/60
+399,pulse,56
+399,pulse,56
+399,blood pressure,120/75
+215,blood pressure,118/70
+215,blood pressure,139/85
+299,blood pressure,100/60
+240,blood pressure,135/60
+233,respiratory rate,12
+333,blood pressure,134/82
+184,blood pressure,138/88
+153,pulse,56
+153,pulse,56
+153,respiratory rate,12
+153,respiratory rate,12
+153,blood pressure,160/80
+287,blood pressure,130/68
+350,respiratory rate,16
+350,blood pressure,118/62
+323,temperature,96.6
+323,temperature,96.6
+323,pulse,76
+323,respiratory rate,18
+323,respiratory rate,18
+323,blood pressure,118/77
+194,blood pressure,138/72
+118,respiratory rate,18
+118,blood pressure,130/62
+307,pulse,76
+252,temperature,100.9
+252,temperature,100.9
+252,pulse,97
+252,pulse,97
+352,pulse,87
+352,pulse,87
+352,blood pressure,117/57
+196,blood pressure,145/84
+141,blood pressure,110/60
+198,pulse,1
+198,pulse,1
+198,blood pressure,140/65
+395,pulse,64
+395,pulse,64
+395,respiratory rate,12
+395,respiratory rate,12
+242,blood pressure,130/80
+177,blood pressure,120/70
+219,pulse,68
+219,blood pressure,100/60
+231,blood pressure,170/64
+331,blood pressure,160/70
+188,blood pressure,138/90
+188,blood pressure,110/80
+151,blood pressure,125/60
+342,respiratory rate,14
+342,blood pressure,136/90
+217,blood pressure,132/70
+395,temperature,99.0
+395,temperature,99.0
+395,pulse,94
+395,pulse,94
+395,blood pressure,137/50
+374,blood pressure,130/88
+321,blood pressure,140/80
+196,blood pressure,130/71
+221,blood pressure,127/55
+132,respiratory rate,18
+132,blood pressure,100/65
+289,blood pressure,110/70
+205,temperature,101
+205,temperature,101
+387,blood pressure,154/82
+153,pulse,68
+153,pulse,68
+153,blood pressure,138/88
+266,pulse,1
+266,pulse,1
+333,blood pressure,120/54
+399,blood pressure,140/77
+120,temperature,97.9
+120,temperature,97.9
+120,respiratory rate,20
+120,respiratory rate,20
+120,blood pressure,161/93
+333,blood pressure,152/70
+108,blood pressure,120/66
+266,pulse,1
+266,pulse,1
+205,pulse,80
+305,blood pressure,118/76
+289,blood pressure,114/72
+278,pulse,60
+278,pulse,60
+278,blood pressure,100/60
+132,temperature,96.5
+132,temperature,96.5
+132,pulse,60
+132,pulse,60
+132,blood pressure,136/60
+285,temperature,98
+285,temperature,98
+285,blood pressure,104/61
+309,blood pressure,140/84
+167,respiratory rate,20
+167,blood pressure,149/87
+209,respiratory rate,18
+221,blood pressure,170/70
+321,blood pressure,144/70
+274,pulse,70
+179,blood pressure,140/84
+217,blood pressure,110/70
+104,blood pressure,100/70
+188,temperature,98.0
+188,temperature,98.0
+188,pulse,70
+188,pulse,70
+188,blood pressure,160/90
+331,temperature,102
+331,pulse,104
+364,pulse,100
+364,blood pressure,117/55
+264,blood pressure,120/86
+295,respiratory rate,18
+295,blood pressure,117/59
+177,respiratory rate,16
+177,blood pressure,127/64
+141,blood pressure,110/60
+198,blood pressure,124/61
+207,temperature,97
+207,temperature,97
+207,pulse,81
+207,pulse,81
+207,respiratory rate,18
+207,respiratory rate,18
+207,blood pressure,112/56
+385,pulse,84
+385,blood pressure,128/68
+252,pulse,65
+352,blood pressure,122/74
+323,pulse,60
+194,blood pressure,141/62
+118,blood pressure,107/60
+376,pulse,70
+130,respiratory rate,18
+130,blood pressure,164/100
+289,blood pressure,110/70
+268,blood pressure,134/70
+106,blood pressure,132/70
+368,blood pressure,146/80
+153,blood pressure,150/80
+120,blood pressure,162/100
+215,blood pressure,150/90
+397,blood pressure,126/70
+315,blood pressure,160/80
+299,pulse,72
+299,pulse,72
+340,temperature,97.2
+340,temperature,97.2
+340,pulse,76
+340,pulse,76
+340,blood pressure,152/120
+240,blood pressure,110/70
+240,blood pressure,162/55
+240,blood pressure,160/58
+340,blood pressure,174/100
+215,respiratory rate,22
+215,blood pressure,148/77
+268,blood pressure,120/70
+165,respiratory rate,20
+165,blood pressure,154/79
+116,temperature,103.3
+116,temperature,103.3
+116,pulse,117
+116,pulse,117
+116,respiratory rate,20
+116,respiratory rate,20
+194,blood pressure,136/56
+307,pulse,126
+198,blood pressure,114/68
+114,respiratory rate,18
+114,blood pressure,140/72
+177,respiratory rate,32
+177,blood pressure,225/125
+177,blood pressure,155/67
+219,pulse,72
+319,blood pressure,142/66
+395,respiratory rate,10
+395,respiratory rate,16
+395,blood pressure,148/60
+122,pulse,65
+264,oxygen saturation,100%
+331,blood pressure,184/90
+231,blood pressure,110/50
+104,respiratory rate,16
+104,blood pressure,75/45
+188,pulse,2
+188,pulse,2
+188,blood pressure,126/87
+364,blood pressure,110/70
+217,pulse,70
+217,respiratory rate,15
+242,pulse,90
+242,pulse,90
+242,blood pressure,157/90
+319,pulse,80
+319,pulse,80
+319,pulse,84
+319,blood pressure,132/84
+319,blood pressure,132/84
+221,blood pressure,138/69
+196,blood pressure,144/61
+274,temperature,98
+274,pulse,58
+274,pulse,58
+274,blood pressure,138/83
+285,pulse,80
+307,temperature,97
+307,pulse,109
+307,respiratory rate,24
+307,respiratory rate,24
+307,blood pressure,139/81
+276,pulse,72
+276,pulse,72
+276,blood pressure,129/69
+305,temperature,97.1
+305,temperature,97.1
+305,pulse,64
+289,pulse,55
+289,respiratory rate,18
+289,respiratory rate,18
+184,temperature,97.3
+184,temperature,97.3
+184,pulse,92
+184,respiratory rate,28
+184,respiratory rate,28
+184,blood pressure,155/84
+233,blood pressure,140/60
+266,pulse,1
+266,pulse,1
+366,pulse,53
+120,blood pressure,160/100
+175,blood pressure,130/80
+340,pulse,80
+340,pulse,80
+340,blood pressure,158/116
+240,blood pressure,140/70
+175,blood pressure,132/68
+397,blood pressure,138/83
+120,temperature,96.3
+120,temperature,96.3
+120,pulse,84
+120,pulse,84
+120,blood pressure,158/67
+120,oxygen saturation,98%
+108,blood pressure,120/70
+333,blood pressure,98/63
+250,blood pressure,142/64
+289,blood pressure,130/70
+378,respiratory rate,18
+378,blood pressure,118/74
+194,blood pressure,126/61
+323,temperature,98.2
+323,temperature,98.2
+323,pulse,68
+323,blood pressure,140/64
+223,pulse,68
+223,pulse,68
+223,blood pressure,140/82
+167,pulse,73
+309,blood pressure,124/60
+352,temperature,98.6
+385,pulse,66
+385,pulse,66
+385,blood pressure,126/57
+198,respiratory rate,18
+198,blood pressure,158/89
+321,pulse,92
+196,blood pressure,117/56
+342,respiratory rate,14
+342,blood pressure,160/110
+179,respiratory rate,18
+317,temperature,101.2
+317,temperature,101.2
+317,pulse,98
+317,pulse,98
+317,respiratory rate,20
+317,respiratory rate,20
+317,blood pressure,146/66
+188,blood pressure,160/90
+231,blood pressure,150/100
+331,blood pressure,152/78
+145,blood pressure,180/80
+145,blood pressure,148/76
+356,blood pressure,120/70
+203,pulse,64
+203,pulse,64
+203,blood pressure,130/70
+303,respiratory rate,18
+303,blood pressure,120/41
+303,blood pressure,115/51
+182,pulse,80
+335,pulse,126
+335,pulse,126
+335,blood pressure,126/66
+235,blood pressure,120/75
+173,respiratory rate,16
+391,blood pressure,120/78
+126,pulse,76
+126,pulse,76
+126,blood pressure,130/82
+248,blood pressure,104/60
+157,blood pressure,134/82
+239,pulse,70
+339,blood pressure,140/80
+244,blood pressure,140/76
+344,temperature,96.2
+344,pulse,108
+344,pulse,108
+344,respiratory rate,20
+344,respiratory rate,20
+344,blood pressure,142/96
+372,pulse,82
+372,pulse,82
+372,respiratory rate,12
+372,respiratory rate,12
+372,blood pressure,135/70
+227,pulse,65
+227,pulse,65
+227,respiratory rate,18
+227,respiratory rate,18
+227,respiratory rate,1
+227,blood pressure,120/70
+327,respiratory rate,14
+327,blood pressure,114/78
+383,pulse,72
+383,pulse,72
+383,blood pressure,122/62
+283,respiratory rate,16
+283,blood pressure,118/62
+134,blood pressure,131/50
+383,blood pressure,160/90
+327,respiratory rate,14
+190,temperature,97.8
+190,pulse,88
+272,blood pressure,130/80
+147,respiratory rate,22
+147,respiratory rate,22
+147,blood pressure,90/50
+372,pulse,92
+372,pulse,92
+372,respiratory rate,16
+372,respiratory rate,16
+372,blood pressure,150/80
+124,pulse,96
+124,blood pressure,130/93
+344,temperature,97.3
+344,pulse,58
+344,pulse,58
+344,respiratory rate,16
+344,respiratory rate,16
+344,blood pressure,134/79
+239,blood pressure,150/80
+157,blood pressure,144/78
+248,temperature,97.1
+248,respiratory rate,20
+173,temperature,99
+173,temperature,99
+173,pulse,93
+173,pulse,93
+173,blood pressure,153/118
+335,respiratory rate,14
+335,blood pressure,163/74
+381,temperature,98.6
+381,pulse,105
+381,pulse,105
+381,blood pressure,117/70
+136,pulse,68
+136,respiratory rate,18
+136,respiratory rate,18
+136,blood pressure,114/68
+256,blood pressure,140/80
+145,blood pressure,135/64
+225,blood pressure,146/77
+356,blood pressure,179/102
+358,blood pressure,142/62
+281,respiratory rate,20
+281,blood pressure,161/72
+258,temperature,95
+258,blood pressure,153/80
+381,blood pressure,110/60
+155,blood pressure,120/60
+100,temperature,97.9
+100,temperature,97.9
+100,pulse,82
+100,pulse,82
+335,respiratory rate,18
+335,blood pressure,110/60
+182,pulse,80
+182,blood pressure,124/88
+248,temperature,97.5
+339,respiratory rate,12
+237,blood pressure,130/60
+180,temperature,99.
+337,blood pressure,98/72
+344,pulse,112
+344,blood pressure,133/86
+393,blood pressure,143/75
+293,blood pressure,130/72
+329,respiratory rate,16
+329,blood pressure,177/84
+329,blood pressure,169/84
+190,pulse,1
+190,respiratory rate,16
+190,respiratory rate,16
+327,blood pressure,134/90
+254,blood pressure,112/72
+254,oxygen saturation,96%
+301,blood pressure,162/96
+201,respiratory rate,18
+201,blood pressure,114/82
+201,respiratory rate,99
+201,blood pressure,108/72
+301,respiratory rate,25
+301,blood pressure,124/74
+254,respiratory rate,18
+372,temperature,97.9
+372,temperature,97.9
+372,pulse,100
+372,blood pressure,150/100
+147,respiratory rate,20
+147,respiratory rate,20
+147,blood pressure,110/60
+311,temperature,100
+311,temperature,100
+311,pulse,111
+311,pulse,111
+311,blood pressure,157/69
+393,blood pressure,162/78
+171,pulse,72
+171,pulse,72
+171,blood pressure,112/52
+180,pulse,80
+180,pulse,80
+180,oxygen saturation,97%
+337,blood pressure,94/58
+262,respiratory rate,19
+262,blood pressure,223/90
+362,temperature,98.6
+362,temperature,98.6
+362,blood pressure,124/80
+313,pulse,90
+313,pulse,90
+313,blood pressure,171/94
+213,temperature,96.6
+213,temperature,96.6
+213,pulse,91
+213,pulse,91
+213,blood pressure,120/58
+100,respiratory rate,16
+100,respiratory rate,16
+260,blood pressure,10/31
+360,blood pressure,142/60
+136,respiratory rate,18
+136,blood pressure,144/72
+381,respiratory rate,16
+281,blood pressure,160/65
+163,pulse,70
+163,blood pressure,130/70
+325,blood pressure,142/84
+370,temperature,97
+370,temperature,97
+370,pulse,88
+370,blood pressure,135/63
+270,pulse,82
+270,pulse,82
+270,blood pressure,113/80
+110,blood pressure,142/74
+225,blood pressure,122/71
+225,blood pressure,122/71
+145,respiratory rate,18
+145,blood pressure,187/97
+203,pulse,64
+203,pulse,64
+203,blood pressure,98/60
+138,temperature,97.8
+138,temperature,97.8
+138,blood pressure,120/88
+356,blood pressure,122/60
+335,temperature,98.6
+335,temperature,98.6
+335,pulse,106
+335,pulse,106
+335,blood pressure,121/65
+260,pulse,2
+260,pulse,2
+126,temperature,102
+126,respiratory rate,18
+126,blood pressure,106/65
+248,respiratory rate,20
+248,blood pressure,118/82
+291,blood pressure,119/60
+237,blood pressure,145/80
+339,respiratory rate,20
+339,blood pressure,176/83
+157,respiratory rate,20
+211,blood pressure,120/72
+311,temperature,97
+311,temperature,97
+311,pulse,155
+311,respiratory rate,18
+311,respiratory rate,18
+311,blood pressure,136/52
+344,blood pressure,172/95
+149,pulse,64
+149,blood pressure,145/61
+227,blood pressure,120/70
+229,blood pressure,146/86
+283,temperature,95.6
+283,temperature,95.6
+283,pulse,78
+283,pulse,78
+134,pulse,72
+134,pulse,72
+254,temperature,97.8
+254,temperature,97.8
+254,pulse,54
+254,blood pressure,136/88
+354,temperature,96.
+354,temperature,96.
+134,pulse,64
+134,pulse,64
+383,temperature,98.1
+383,blood pressure,140/78
+372,temperature,104
+372,pulse,94
+372,blood pressure,140/90
+272,respiratory rate,20
+272,blood pressure,167/77
+227,blood pressure,152/66
+149,pulse,74
+262,blood pressure,106/58
+362,pulse,98
+362,pulse,98
+362,blood pressure,163/112
+173,respiratory rate,18
+173,respiratory rate,18
+213,temperature,96
+213,temperature,96
+213,respiratory rate,20
+213,respiratory rate,20
+213,blood pressure,97/49
+391,blood pressure,170/90
+126,blood pressure,150/90
+360,pulse,60
+182,respiratory rate,18
+235,blood pressure,130/85
+138,pulse,72
+138,blood pressure,138/92
+203,pulse,60
+203,pulse,60
+303,blood pressure,189/53
+370,blood pressure,130/70
+145,respiratory rate,20
+145,blood pressure,212/93
+270,pulse,58
+270,pulse,58
+270,blood pressure,120/60
+110,blood pressure,158/72
+110,blood pressure,120/80
+325,respiratory rate,22
+325,blood pressure,152/92
+192,blood pressure,120/80
+270,temperature,95.9
+270,temperature,95.9
+270,pulse,89
+270,pulse,89
+270,respiratory rate,18
+270,respiratory rate,18
+270,blood pressure,180/71
+163,blood pressure,122/60
+313,blood pressure,110/60
+213,respiratory rate,16
+213,respiratory rate,16
+213,blood pressure,90/40
+128,blood pressure,125/80
+180,blood pressure,130/64
+337,respiratory rate,20
+159,pulse,68
+159,pulse,68
+159,blood pressure,134/84
+262,respiratory rate,24
+362,blood pressure,174/110
+293,respiratory rate,12
+293,blood pressure,128/70
+393,blood pressure,229/103
+171,pulse,76
+171,pulse,76
+171,blood pressure,135/70
+329,respiratory rate,20
+329,blood pressure,98/53
+229,blood pressure,130/70
+201,blood pressure,82/50
+301,respiratory rate,20
+301,blood pressure,127/67
+161,pulse,60
+161,respiratory rate,12
+254,pulse,80
+254,blood pressure,126/82
+283,pulse,160
+283,pulse,160
+283,respiratory rate,40
+283,respiratory rate,40
+301,respiratory rate,22
+301,blood pressure,145/91
+201,respiratory rate,18
+201,blood pressure,106/73
+229,blood pressure,135/90
+329,pulse,80
+329,pulse,80
+329,blood pressure,140/90
+329,blood pressure,140/90
+112,blood pressure,149/96
+149,pulse,76
+393,blood pressure,180/82
+293,pulse,65
+362,temperature,98.6
+362,temperature,98.6
+362,pulse,86
+362,pulse,86
+362,blood pressure,140/60
+262,pulse,76
+262,respiratory rate,18
+262,respiratory rate,18
+262,blood pressure,130/80
+237,blood pressure,132/56
+159,pulse,80
+159,blood pressure,134/74
+180,pulse,90
+180,pulse,90
+337,pulse,73
+337,pulse,73
+337,blood pressure,129/80
+128,blood pressure,115/53
+126,respiratory rate,16
+126,blood pressure,191/109
+291,blood pressure,165/64
+313,pulse,76
+313,pulse,76
+163,blood pressure,100/62
+358,blood pressure,164/64
+145,blood pressure,138/70
+370,temperature,97.8
+370,temperature,97.8
+370,blood pressure,166/66
+192,blood pressure,152/84
+192,pulse,68
+192,weight,263
+148,blood pressure,103/80
+148,pulse,70
+148,weight,164
+148,temperature,96.6
+148,respiratory rate,16
+346,temperature,98.6
+346,pulse,99
+346,blood pressure,174/65
+346,respiratory rate,20
+346,oxygen saturation,91%
+189,blood pressure,120/68
+189,pulse,80
+236,blood pressure,128/68
+236,weight,107
+338,blood pressure,110/61
+338,pulse,61
+338,weight,220
+139,blood pressure,140/70
+139,pulse,64
+139,weight,151
+385,weight,152
+385,blood pressure,115/55
+385,pulse,70
+385,temperature,96.3
+376,weight,183
+376,blood pressure,130/70
+397,temperature,98.3
+397,blood pressure,114/73
+397,pulse,100
+397,respiratory rate,16
+397,oxygen saturation,96%
+278,blood pressure,130/72
+278,pulse,68
+278,weight,198
+242,blood pressure,142/84
+242,weight,178
+242,weight,178
+110,pulse,66
+110,temperature,98.7
+110,oxygen saturation,97%
+110,blood pressure,132/60
+244,blood pressure,120/64
+244,pulse,68
+244,respiratory rate,14
+244,weight,202
+354,blood pressure,154/71
+354,pulse,66
+346,blood pressure,124/60
+346,pulse,72
+346,weight,238
+220,blood pressure,140/82
+220,temperature,98.2
+378,weight,213
+215,blood pressure,130/80
+215,weight,216
+346,temperature,98.6
+346,pulse,99
+346,blood pressure,174/65
+346,respiratory rate,20
+346,oxygen saturation,91%
